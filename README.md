@@ -8,7 +8,7 @@
 - 💬 Ask me about **react, postgres**
 
 - 📫 How to reach me **marktrepanier.cajigas@gmail.com**
-<h4 align="center">Let's make game stuff, ey?</h4>
+<h4 align="left">Let's make game stuff, ey?</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
