@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **marktrepanier.cajigas@gmail.com**
 <h4 align="left">Let's make game stuff, ey?</h4>
-<p align="left">For the last few months i have strictly been working on Web Development with Js and the like, but i had started coding games with C# and Unity. I would love to mix my new found love for web dev with my forever love of games!</p>
+<p align="left">For the last few months I have strictly been working on Web Development, but my venture into coding started with game development, coding in C# with Unity Engine. Since 2011 i had worked with the CMHA, housing homeless families. I would love to mix my new found love for Web Dev with my forever love of games or helping communities!</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
