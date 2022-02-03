@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mark Trepanier-Cajigas</h1>
 <h3 align="center">An energetic full stack dev</h3>
 
-- 🔭 I’m currently working on [a personal project for fallout 2D20](https://github.com/MarkTrepanier/pipboy)
+- 🔭 I’m currently working as a Technical Project Manager on a nonprofit project
 
-- 🌱 I’m currently learning **computer science**
+- 🌱 I’m currently learning Lua for Funzies 
 
 - 💬 Ask me about **react, postgres**
 
