@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Trepanier-Cajigas</h1>
-<h3 align="center">An energetic full stack dev</h3>
+<h3 align="center">An energetic Fullstack Dev</h3>
 
 - 🔭 I’m currently working as a Technical Project Manager on a nonprofit project
 
