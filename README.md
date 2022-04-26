@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mark Trepanier-Cajigas</h1>
 <h3 align="center">An energetic Fullstack Dev</h3>
 
-- 🔭 I’m currently working as a Technical Project Manager on a nonprofit project
+- 🔭 I’m currently working several personal projects and recreating my Portfolio with React.
 
-- 🌱 I’m currently learning Lua for Funzies 
+- 🌱 I’m currently learning React-Native and Java 
 
 - 💬 Ask me about **react, postgres**
 
 - 📫 How to reach me **marktrepanier.cajigas@gmail.com**
 <h4 align="left">Let's make game stuff, ey?</h4>
-<p align="left">For the last few months I have strictly been working on Web Development, but my venture into coding started with game development, coding in C# with Unity Engine. Since 2011 I had worked with the CMHA, housing homeless families. I would love to mix my new found love for Web Dev with my forever love of games or helping communities!</p>
+<p align="left">For the last few months I have strictly been working on Web Development, but my venture into coding started with game development, coding in C# with Unity Engine. Previously I had worked with the Central Mass Housing Alliance, housing homeless families. I would love to mix my new found love for Web Dev with my forever love of games and helping communities!</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
