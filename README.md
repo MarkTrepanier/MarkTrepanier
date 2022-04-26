@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning React-Native and Java 
 
-- 💬 Ask me about **react, postgres**
+- 💬 Ask me about **React, Postgres**
 
 - 📫 How to reach me **marktrepanier.cajigas@gmail.com**
 <h4 align="left">Let's make game stuff, ey?</h4>
