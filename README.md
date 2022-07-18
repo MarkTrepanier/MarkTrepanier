@@ -8,7 +8,7 @@
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **marktrepanier.cajigas@gmail.com**
-<h4 align="left">Let's make game stuff, ey?</h4>
+<h4 align="left">Let's make stuff, ey?</h4>
 <p align="left">I have been focusing on Web Development, but my venture into coding started with an interest in game development, coding in C# with Unity Engine. Previously I had worked with the Central Mass Housing Alliance, housing homeless families. I would love to mix my new found love for Web Dev with my forever love of games and helping communities!</p>
 
 <h3 align="left">Connect with me:</h3>
