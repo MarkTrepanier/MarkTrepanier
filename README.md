@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark Trepanier-Cajigas</h1>
 <h3 align="center">An energetic Fullstack Dev</h3>
 
-- 🔭 I’m currently working several personal projects and recreating my Portfolio with React.
+- 🔭 I’m currently working on personal Portfolio Pieces
 
 - 🌱 I’m currently learning React-Native and Web-Sockets
 
