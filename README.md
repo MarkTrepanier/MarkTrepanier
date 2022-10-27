@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mark Trepanier-Cajigas</h1>
 <h3 align="center">An energetic Fullstack Dev</h3>
 
-- 🔭 I’m currently working on personal Portfolio Pieces
+- 🔭 I’m currently Working with Code for Boston on MAPLE
 
-- 🌱 I’m currently learning React-Native and Web-Sockets
+- 🌱 I’m currently learning C#
 
 - 💬 Ask me about **React**
 
