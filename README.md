@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Working with Code for Boston on MAPLE
 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and Typescript
 
 - 💬 Ask me about **React**
 
