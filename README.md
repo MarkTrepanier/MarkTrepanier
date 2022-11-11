@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mark Trepanier-Cajigas</h1>
 <h3 align="center">An energetic Fullstack Dev</h3>
 
-- 🔭 I’m currently Working with Code for Boston on <a href="https://github.com/codeforboston/maple" target="blank">MAPLE</a>
+- 🔭 I’m currently Working with Code for Boston on <a href="https://github.com/codeforboston/maple" target="_blank">MAPLE</a>
+- 🎮 I'm also participating in Github's <a href="https://itch.io/jam/game-off-2022" target="blank">Game Off 2022</a> Game Jam
 
 - 🌱 I’m currently learning C# and Typescript
 
@@ -13,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mark-trepanier-cajigas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mark-trepanier-cajigas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mark-trepanier-cajigas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mark-trepanier-cajigas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
