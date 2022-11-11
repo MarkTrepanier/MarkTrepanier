@@ -2,7 +2,7 @@
 <h3 align="center">An energetic Fullstack Dev</h3>
 
 - 🔭 I’m currently Working with <a href="https://www.codeforboston.org" target="_blank">Code for Boston</a> on <a href="https://github.com/codeforboston/maple" target="_blank">MAPLE</a>, a legislative testimony project
-- 🎮 I'm also participating in Github's <a href="https://itch.io/jam/game-off-2022" target="blank">Game Off 2022</a> Game Jam
+- 🎮 I'm also participating in Github's <a href="https://itch.io/jam/game-off-2022" target="_blank">Game Off 2022</a> Game Jam
 
 - 🌱 I’m currently learning C# and Typescript
 
