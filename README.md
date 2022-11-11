@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark Trepanier-Cajigas</h1>
 <h3 align="center">An energetic Fullstack Dev</h3>
 
-- 🔭 I’m currently Working with Code for Boston on MAPLE
+- 🔭 I’m currently Working with Code for Boston on <a href="https://github.com/codeforboston/maple" target="blank">MAPLE</a>
 
 - 🌱 I’m currently learning C# and Typescript
 
