@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **marktrepanier.cajigas@gmail.com**
 <h4 align="left">Let's make stuff, ey?</h4>
-<p align="left">I have been focusing on Web Development, but my venture into coding started with an interest in Game Development, coding in C# with Unity Engine. Previously I had worked with the Central Mass Housing Alliance, housing homeless families before getting my education in Full Stack Web Development</p>
+<p align="left">I am a Full Stack Web Developer from Massachusetts, with a passion for creating innovative and engaging web applications. I have recently transitioned into the tech industry from social services, where I found my passion for technology and its ability to make a difference in people's lives. I graduated from Bloom Tech's Full Stack Web Development program, where I learned and honed my skills in React, JavaScript, HTML/CSS and Agile Development methodologies. I am always eager to take on new challenges and learn new technologies, and I am excited to continue my journey in the tech industry.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
